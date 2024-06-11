@@ -11,7 +11,7 @@ FIFA datasets are invaluable resources for analyzing player performance, scoutin
 ## Objectives 
 The primary objective of this project is to clean and preprocess the FIFA player datasets to ensure data integrity and accuracy.The goal is to prepare a high-quality, reliable dataset that can be used for various analytical purposes.The project contain a step by step process of how i cleaned the fifa datasets, which includes some of the following steps, **checking for and removing of duplicate**,**Identifying and rectifying issues such as missing value**, **checking for inaccuracies in date**, **Data standardization** and lot more 
 
-i hope you would enjoy going through it 
-Thanks for reading 
+Thank you for taking the time to explore this project. I hope you find the insights useful. 
+Your feedback and contributions are welcome!
 
 By Afahaene Gabriel Asuquo
